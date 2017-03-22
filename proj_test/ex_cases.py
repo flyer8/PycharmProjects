@@ -7,7 +7,7 @@ num = input("Input a number of addresses: (4,8,16,32,64,128,256): ")
 if num in addresses:
     stepen = addresses[num]
     mask = 32 - int(stepen)
-    print (stepen) #128
-    print (mask)
+    print (stepen) #7
+    print ("The mask is: " + str(mask))
 else:
     print ("Incorrect.")

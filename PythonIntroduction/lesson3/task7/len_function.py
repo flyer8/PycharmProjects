@@ -1,7 +1,7 @@
-phrase = "Hi, My name is Sergey"
-""" It is a really long string
+phrase = """
+It is a really long string
 triple-quoted strings are used
 to define multi-line strings
 """
-first_half = len(phrase)
-print (first_half)
+first_half = phrase[:len(phrase)/2]
+print(first_half)

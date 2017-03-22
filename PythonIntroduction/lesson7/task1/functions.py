@@ -9,8 +9,8 @@ print('I want to be a function')
 print('I want to be a function')
 
 
-define a function named 'fun' to replace three lines above
-    print('I want to be a function')
+def fun():
+    print('I want to be a function 2')
 
 for i in range(3):
     fun()

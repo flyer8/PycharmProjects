@@ -176,7 +176,7 @@
                                           <option name="myStart" value="6" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="8" />
+                                      <option name="length" value="13" />
                                       <option name="line" value="1" />
                                       <option name="possibleAnswer" value="other_variable" />
                                       <option name="start" value="6" />
@@ -747,7 +747,7 @@
                                           <option name="myStart" value="13" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="11" />
+                                      <option name="length" value="22" />
                                       <option name="line" value="5" />
                                       <option name="possibleAnswer" value="phrase[:int(len(phrase)/2)]" />
                                       <option name="start" value="13" />
@@ -789,7 +789,7 @@
                                           <option name="myStart" value="7" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="20" />
+                                      <option name="length" value="48" />
                                       <option name="line" value="3" />
                                       <option name="possibleAnswer" value="The name of this ice-cream is &quot;Sweeet\'n\'Tasty&quot;" />
                                       <option name="start" value="7" />
@@ -1192,7 +1192,7 @@
                                           <option name="myStart" value="6" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="30" />
+                                      <option name="length" value="22" />
                                       <option name="line" value="6" />
                                       <option name="possibleAnswer" value="'fish' in grocery_dict.keys()" />
                                       <option name="start" value="6" />
@@ -1200,7 +1200,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1243,7 +1243,7 @@
                                           <option name="myStart" value="6" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="24" />
+                                      <option name="length" value="28" />
                                       <option name="line" value="5" />
                                       <option name="possibleAnswer" value="name == 'John' and age != 23" />
                                       <option name="start" value="6" />
@@ -1251,7 +1251,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1285,7 +1285,7 @@
                                           <option name="myStart" value="6" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="69" />
+                                      <option name="length" value="52" />
                                       <option name="line" value="7" />
                                       <option name="possibleAnswer" value="&quot;name&quot; is &quot;Ellis&quot; or not (&quot;name&quot; is &quot;John&quot; and age == 17)" />
                                       <option name="start" value="6" />
@@ -1293,7 +1293,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1327,7 +1327,7 @@
                                           <option name="myStart" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="25" />
+                                      <option name="length" value="19" />
                                       <option name="line" value="9" />
                                       <option name="possibleAnswer" value="if len(tasks) == 0:" />
                                       <option name="start" value="0" />
@@ -1335,7 +1335,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1369,7 +1369,7 @@
                                           <option name="myStart" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="29" />
+                                      <option name="length" value="18" />
                                       <option name="line" value="13" />
                                       <option name="possibleAnswer" value="if name == 'John':" />
                                       <option name="start" value="0" />
@@ -1385,7 +1385,7 @@
                                           <option name="myStart" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="9" />
+                                      <option name="length" value="5" />
                                       <option name="line" value="15" />
                                       <option name="possibleAnswer" value="else:" />
                                       <option name="start" value="0" />
@@ -1393,7 +1393,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1436,7 +1436,7 @@
                                           <option name="myStart" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="34" />
+                                      <option name="length" value="20" />
                                       <option name="line" value="6" />
                                       <option name="possibleAnswer" value="for prime in primes:" />
                                       <option name="start" value="0" />
@@ -1444,7 +1444,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1478,7 +1478,7 @@
                                           <option name="myStart" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="59" />
+                                      <option name="length" value="22" />
                                       <option name="line" value="7" />
                                       <option name="possibleAnswer" value="for ch in hello_world:" />
                                       <option name="start" value="0" />
@@ -1486,7 +1486,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1562,7 +1562,7 @@
                                           <option name="myStart" value="7" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="33" />
+                                      <option name="length" value="20" />
                                       <option name="line" value="13" />
                                       <option name="possibleAnswer" value="animal == 'elephant'" />
                                       <option name="start" value="7" />
@@ -1570,7 +1570,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1604,7 +1604,7 @@
                                           <option name="myStart" value="7" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="18" />
+                                      <option name="length" value="10" />
                                       <option name="line" value="6" />
                                       <option name="possibleAnswer" value="x % 2 == 0" />
                                       <option name="start" value="7" />
@@ -1612,7 +1612,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1655,7 +1655,7 @@
                                           <option name="myStart" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="58" />
+                                      <option name="length" value="10" />
                                       <option name="line" value="11" />
                                       <option name="possibleAnswer" value="def fun():" />
                                       <option name="start" value="0" />
@@ -1663,7 +1663,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1697,7 +1697,7 @@
                                           <option name="myStart" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="71" />
+                                      <option name="length" value="14" />
                                       <option name="line" value="5" />
                                       <option name="possibleAnswer" value="def square(x):" />
                                       <option name="start" value="0" />
@@ -1705,7 +1705,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1739,7 +1739,7 @@
                                           <option name="myStart" value="8" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="21" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="11" />
                                       <option name="possibleAnswer" value="1" />
                                       <option name="start" value="8" />
@@ -1755,7 +1755,7 @@
                                           <option name="myStart" value="8" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="17" />
+                                      <option name="length" value="9" />
                                       <option name="line" value="15" />
                                       <option name="possibleAnswer" value="b = a + b" />
                                       <option name="start" value="8" />
@@ -1771,7 +1771,7 @@
                                           <option name="myStart" value="8" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="17" />
+                                      <option name="length" value="11" />
                                       <option name="line" value="16" />
                                       <option name="possibleAnswer" value="a = tmp_var" />
                                       <option name="start" value="8" />
@@ -1779,7 +1779,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2537,6 +2537,26 @@
           <entry value="Unchecked">
             <key>
               <AnswerPlaceholder>
+                <option name="hint" value="Update 'b' with 'a + b'." />
+                <option name="index" value="1" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="15" />
+                    <option name="myLength" value="17" />
+                    <option name="myStart" value="8" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="17" />
+                <option name="line" value="15" />
+                <option name="possibleAnswer" value="b = a + b" />
+                <option name="start" value="8" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Unchecked">
+            <key>
+              <AnswerPlaceholder>
                 <option name="hint" value="Use datetime.datetime.today() function." />
                 <option name="index" value="0" />
                 <option name="initialState">
@@ -2610,6 +2630,26 @@
                 <option name="line" value="1" />
                 <option name="possibleAnswer" value="long_string[-1]" />
                 <option name="start" value="14" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Put parameter 'x' inside parentheses in function definition." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="5" />
+                    <option name="myLength" value="71" />
+                    <option name="myStart" value="0" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="14" />
+                <option name="line" value="5" />
+                <option name="possibleAnswer" value="def square(x):" />
+                <option name="start" value="0" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
@@ -2834,6 +2874,26 @@
               </AnswerPlaceholder>
             </key>
           </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Remember about string slicing." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="5" />
+                    <option name="myLength" value="9" />
+                    <option name="myStart" value="13" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="22" />
+                <option name="line" value="5" />
+                <option name="possibleAnswer" value="phrase[:int(len(phrase)/2)]" />
+                <option name="start" value="13" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
           <entry value="Failed">
             <key>
               <AnswerPlaceholder>
@@ -2870,6 +2930,26 @@
                 <option name="line" value="5" />
                 <option name="possibleAnswer" value="monty_python.upper()" />
                 <option name="start" value="6" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use len function to check if tasks is empty." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="9" />
+                    <option name="myLength" value="25" />
+                    <option name="myStart" value="0" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="19" />
+                <option name="line" value="9" />
+                <option name="possibleAnswer" value="if len(tasks) == 0:" />
+                <option name="start" value="0" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
@@ -2994,6 +3074,66 @@
               </AnswerPlaceholder>
             </key>
           </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use for loop to iterate over 'primes'." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="6" />
+                    <option name="myLength" value="34" />
+                    <option name="myStart" value="0" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="20" />
+                <option name="line" value="6" />
+                <option name="possibleAnswer" value="for prime in primes:" />
+                <option name="start" value="0" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use 'def' keyword to define 'fun' function." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="11" />
+                    <option name="myLength" value="58" />
+                    <option name="myStart" value="0" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="10" />
+                <option name="line" value="11" />
+                <option name="possibleAnswer" value="def fun():" />
+                <option name="start" value="0" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use if keyword and == operator." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="13" />
+                    <option name="myLength" value="29" />
+                    <option name="myStart" value="0" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="18" />
+                <option name="line" value="13" />
+                <option name="possibleAnswer" value="if name == 'John':" />
+                <option name="start" value="0" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
           <entry value="Unchecked">
             <key>
               <AnswerPlaceholder>
@@ -3030,6 +3170,26 @@
                 <option name="line" value="2" />
                 <option name="possibleAnswer" value="number/2" />
                 <option name="start" value="9" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Update 'a' with 'tmp_var'." />
+                <option name="index" value="2" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="16" />
+                    <option name="myLength" value="17" />
+                    <option name="myStart" value="8" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="11" />
+                <option name="line" value="16" />
+                <option name="possibleAnswer" value="a = tmp_var" />
+                <option name="start" value="8" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
@@ -3090,6 +3250,26 @@
                 <option name="line" value="5" />
                 <option name="possibleAnswer" value="name == 'John' and age != 23" />
                 <option name="start" value="6" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Failed">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Check if 'number' is strictly less than 10 in condition." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="11" />
+                    <option name="myLength" value="30" />
+                    <option name="myStart" value="0" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="19" />
+                <option name="line" value="11" />
+                <option name="possibleAnswer" value="while number &lt; 10:" />
+                <option name="start" value="0" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
@@ -3174,6 +3354,26 @@
               </AnswerPlaceholder>
             </key>
           </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use for loop to iterate over 'hello_world' string." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="7" />
+                    <option name="myLength" value="59" />
+                    <option name="myStart" value="0" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="22" />
+                <option name="line" value="7" />
+                <option name="possibleAnswer" value="for ch in hello_world:" />
+                <option name="start" value="0" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
           <entry value="Unchecked">
             <key>
               <AnswerPlaceholder>
@@ -3234,6 +3434,26 @@
               </AnswerPlaceholder>
             </key>
           </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Update 'b' with 'a + b'." />
+                <option name="index" value="1" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="15" />
+                    <option name="myLength" value="17" />
+                    <option name="myStart" value="8" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="9" />
+                <option name="line" value="15" />
+                <option name="possibleAnswer" value="b = a + b" />
+                <option name="start" value="8" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
           <entry value="Unchecked">
             <key>
               <AnswerPlaceholder>
@@ -3290,6 +3510,46 @@
                 <option name="line" value="3" />
                 <option name="possibleAnswer" value="==" />
                 <option name="start" value="15" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use else keyword." />
+                <option name="index" value="1" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="15" />
+                    <option name="myLength" value="9" />
+                    <option name="myStart" value="0" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="5" />
+                <option name="line" value="15" />
+                <option name="possibleAnswer" value="else:" />
+                <option name="start" value="0" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use backslash \ to escape quotes" />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="3" />
+                    <option name="myLength" value="4" />
+                    <option name="myStart" value="7" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="48" />
+                <option name="line" value="3" />
+                <option name="possibleAnswer" value="The name of this ice-cream is &quot;Sweeet\'n\'Tasty&quot;" />
+                <option name="start" value="7" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
@@ -3494,6 +3754,46 @@
               </AnswerPlaceholder>
             </key>
           </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use == to check if animal is equal to 'elephant'." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="13" />
+                    <option name="myLength" value="33" />
+                    <option name="myStart" value="7" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="20" />
+                <option name="line" value="13" />
+                <option name="possibleAnswer" value="animal == 'elephant'" />
+                <option name="start" value="7" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use in keyword." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="6" />
+                    <option name="myLength" value="30" />
+                    <option name="myStart" value="6" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="22" />
+                <option name="line" value="6" />
+                <option name="possibleAnswer" value="'fish' in grocery_dict.keys()" />
+                <option name="start" value="6" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
           <entry value="Unchecked">
             <key>
               <AnswerPlaceholder>
@@ -3577,6 +3877,46 @@
           <entry value="Solved">
             <key>
               <AnswerPlaceholder>
+                <option name="hint" value="Combine 'and', 'or' and 'not' keywords." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="7" />
+                    <option name="myLength" value="69" />
+                    <option name="myStart" value="6" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="52" />
+                <option name="line" value="7" />
+                <option name="possibleAnswer" value="&quot;name&quot; is &quot;Ellis&quot; or not (&quot;name&quot; is &quot;John&quot; and age == 17)" />
+                <option name="start" value="6" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use and keyword and != operator." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="5" />
+                    <option name="myLength" value="24" />
+                    <option name="myStart" value="6" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="28" />
+                <option name="line" value="5" />
+                <option name="possibleAnswer" value="name == 'John' and age != 23" />
+                <option name="start" value="6" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
                 <option name="hint" value="Use len() function." />
                 <option name="index" value="0" />
                 <option name="initialState">
@@ -3590,26 +3930,6 @@
                 <option name="line" value="3" />
                 <option name="possibleAnswer" value="len(alphabet)" />
                 <option name="start" value="6" />
-                <option name="taskText" />
-              </AnswerPlaceholder>
-            </key>
-          </entry>
-          <entry value="Solved">
-            <key>
-              <AnswerPlaceholder>
-                <option name="hint" value="Use multiplication." />
-                <option name="index" value="0" />
-                <option name="initialState">
-                  <MyInitialState>
-                    <option name="myLine" value="1" />
-                    <option name="myLength" value="8" />
-                    <option name="myStart" value="22" />
-                  </MyInitialState>
-                </option>
-                <option name="length" value="1" />
-                <option name="line" value="1" />
-                <option name="possibleAnswer" value="*" />
-                <option name="start" value="22" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
@@ -3630,6 +3950,26 @@
                 <option name="line" value="3" />
                 <option name="possibleAnswer" value="%d" />
                 <option name="start" value="11" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use multiplication." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="1" />
+                    <option name="myLength" value="8" />
+                    <option name="myStart" value="22" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="1" />
+                <option name="line" value="1" />
+                <option name="possibleAnswer" value="*" />
+                <option name="start" value="22" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
@@ -3674,6 +4014,26 @@
               </AnswerPlaceholder>
             </key>
           </entry>
+          <entry value="Unchecked">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Update 'a' with 'tmp_var'." />
+                <option name="index" value="2" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="16" />
+                    <option name="myLength" value="17" />
+                    <option name="myStart" value="8" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="17" />
+                <option name="line" value="16" />
+                <option name="possibleAnswer" value="a = tmp_var" />
+                <option name="start" value="8" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
           <entry value="Solved">
             <key>
               <AnswerPlaceholder>
@@ -3694,22 +4054,22 @@
               </AnswerPlaceholder>
             </key>
           </entry>
-          <entry value="Failed">
+          <entry value="Solved">
             <key>
               <AnswerPlaceholder>
-                <option name="hint" value="How old are you?" />
-                <option name="index" value="1" />
+                <option name="hint" value="Initialize 'b' with 1." />
+                <option name="index" value="0" />
                 <option name="initialState">
                   <MyInitialState>
-                    <option name="myLine" value="3" />
-                    <option name="myLength" value="5" />
-                    <option name="myStart" value="39" />
+                    <option name="myLine" value="11" />
+                    <option name="myLength" value="21" />
+                    <option name="myStart" value="8" />
                   </MyInitialState>
                 </option>
-                <option name="length" value="5" />
-                <option name="line" value="3" />
-                <option name="possibleAnswer" value="17" />
-                <option name="start" value="52" />
+                <option name="length" value="1" />
+                <option name="line" value="11" />
+                <option name="possibleAnswer" value="1" />
+                <option name="start" value="8" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
@@ -3730,6 +4090,26 @@
                 <option name="line" value="3" />
                 <option name="possibleAnswer" value="hello + ' ' + world" />
                 <option name="start" value="14" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Failed">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="How old are you?" />
+                <option name="index" value="1" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="3" />
+                    <option name="myLength" value="5" />
+                    <option name="myStart" value="39" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="5" />
+                <option name="line" value="3" />
+                <option name="possibleAnswer" value="17" />
+                <option name="start" value="52" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
@@ -3834,26 +4214,6 @@
               </AnswerPlaceholder>
             </key>
           </entry>
-          <entry value="Solved">
-            <key>
-              <AnswerPlaceholder>
-                <option name="hint" value="Use %d special symbol" />
-                <option name="index" value="0" />
-                <option name="initialState">
-                  <MyInitialState>
-                    <option name="myLine" value="3" />
-                    <option name="myLength" value="14" />
-                    <option name="myStart" value="11" />
-                  </MyInitialState>
-                </option>
-                <option name="length" value="2" />
-                <option name="line" value="4" />
-                <option name="possibleAnswer" value="%d" />
-                <option name="start" value="11" />
-                <option name="taskText" />
-              </AnswerPlaceholder>
-            </key>
-          </entry>
           <entry value="Failed">
             <key>
               <AnswerPlaceholder>
@@ -3870,6 +4230,26 @@
                 <option name="line" value="3" />
                 <option name="possibleAnswer" value="len(alphabet)" />
                 <option name="start" value="6" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use %d special symbol" />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="3" />
+                    <option name="myLength" value="14" />
+                    <option name="myStart" value="11" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="2" />
+                <option name="line" value="4" />
+                <option name="possibleAnswer" value="%d" />
+                <option name="start" value="11" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
@@ -3994,22 +4374,22 @@
               </AnswerPlaceholder>
             </key>
           </entry>
-          <entry value="Unchecked">
+          <entry value="Solved">
             <key>
               <AnswerPlaceholder>
-                <option name="hint" value="Use print function." />
+                <option name="hint" value="Use % operator to check if x is even." />
                 <option name="index" value="0" />
                 <option name="initialState">
                   <MyInitialState>
-                    <option name="myLine" value="5" />
-                    <option name="myLength" value="15" />
-                    <option name="myStart" value="4" />
+                    <option name="myLine" value="6" />
+                    <option name="myLength" value="18" />
+                    <option name="myStart" value="7" />
                   </MyInitialState>
                 </option>
-                <option name="length" value="15" />
-                <option name="line" value="5" />
-                <option name="possibleAnswer" value="print(line)" />
-                <option name="start" value="4" />
+                <option name="length" value="10" />
+                <option name="line" value="6" />
+                <option name="possibleAnswer" value="x % 2 == 0" />
+                <option name="start" value="7" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
@@ -4030,6 +4410,46 @@
                 <option name="line" value="7" />
                 <option name="possibleAnswer" value="import my_module" />
                 <option name="start" value="0" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Unchecked">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use print function." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="5" />
+                    <option name="myLength" value="15" />
+                    <option name="myStart" value="4" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="15" />
+                <option name="line" value="5" />
+                <option name="possibleAnswer" value="print(line)" />
+                <option name="start" value="4" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use += operator" />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="6" />
+                    <option name="myLength" value="8" />
+                    <option name="myStart" value="7" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="2" />
+                <option name="line" value="6" />
+                <option name="possibleAnswer" value="+=" />
+                <option name="start" value="7" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
@@ -4057,26 +4477,6 @@
           <entry value="Failed">
             <key>
               <AnswerPlaceholder>
-                <option name="hint" value="Use += operator" />
-                <option name="index" value="0" />
-                <option name="initialState">
-                  <MyInitialState>
-                    <option name="myLine" value="6" />
-                    <option name="myLength" value="8" />
-                    <option name="myStart" value="7" />
-                  </MyInitialState>
-                </option>
-                <option name="length" value="2" />
-                <option name="line" value="6" />
-                <option name="possibleAnswer" value="+=" />
-                <option name="start" value="7" />
-                <option name="taskText" />
-              </AnswerPlaceholder>
-            </key>
-          </entry>
-          <entry value="Failed">
-            <key>
-              <AnswerPlaceholder>
                 <option name="hint" value="Remember about string slicing." />
                 <option name="index" value="0" />
                 <option name="initialState">
@@ -4090,6 +4490,26 @@
                 <option name="line" value="5" />
                 <option name="possibleAnswer" value="phrase[:int(len(phrase)/2)]" />
                 <option name="start" value="13" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Type the name of an undefined variable here. Note that variable names must start with a letter and may contain letters, '_' and/or numbers." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="1" />
+                    <option name="myLength" value="14" />
+                    <option name="myStart" value="6" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="13" />
+                <option name="line" value="1" />
+                <option name="possibleAnswer" value="other_variable" />
+                <option name="start" value="6" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
